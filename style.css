@@ -1,0 +1,108 @@
+body{
+    background-color:linear-gradient(rgb(253, 250, 250),rgb(206, 201, 201));
+    background-size: cover;
+    background-position: center;
+    height: 100hv;
+}
+#anvbarTogglerDemo01{
+    color:red;
+}
+.navbar{
+    position: fixed;
+
+}
+.navbar-nav{
+    margin-left: 60%;
+}
+.fa-solid{
+    color:#9c3b3b;
+    margin-left: 70px;
+}
+.nav-item{
+    margin-left: 45px;
+    background-color:white;
+    border-radius: 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.nav-link{
+    font-weight: 600;
+}
+
+#carouselExampleControls{
+    width: 550px;
+    height:450px;
+    margin-top:100px;
+    margin-left: 120px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+#first{
+    color:#aa4c4c;
+    font-size: 65px;
+}
+
+hr{
+    width:90%;
+    border-radius: 5px;
+}
+.deiva{
+    position:absolute;
+    margin-left:60%;
+    margin-top:-31%;
+}
+blockquote {
+    border:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    
+blockquote h1:before { 
+    content: open-quote;
+    font-weight: bold;
+    font-size:60px;
+    color:#4b4747;
+} 
+blockquote h1:after { 
+    content: close-quote;
+    font-weight: bold;
+    font-size:60px;
+    color:#4b4747;
+}
+#blood-drop{
+    width: 150px;
+    height: 150px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+#quotesecond{
+    color: #aa4c4c;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-top: 50px;
+    font-weight: 500;
+}
+#quotethird{
+    color: #aa4c4c;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 66%;
+    margin-top: -350px;
+    font-weight: 500;
+}
+#orbutton{
+    background: #a50404;
+    color:white;
+    margin-left: 20px;
+}
+.button{
+    margin-left: 70%;
+    margin-top: 5%;
+}
+.button button{
+    display: block;
+    margin-top: 20px;
+}
+#requesterbtn{
+
+    margin-left: -10px;
+}
+
