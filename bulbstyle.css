@@ -1,0 +1,31 @@
+.bulb{
+    width:7%;
+    height: 18%;
+    background:rgb(240, 236, 236);
+    margin-left: 47%;
+    margin-top: 15%;
+    border-radius: 100% 100% 80% 80%;
+}
+.base{
+    position:relative;
+    width:5%;
+    height: 10%;
+    margin-left: 48%;
+    background: rgb(250, 248, 248);
+    clip-path: polygon(20% 0, 80% 0, 90% 100%, 10% 100%);
+}
+button{
+    width: 60px;
+    height: 50px;
+    padding: 7px 7px;
+    background:rgb(248, 246, 246);
+    border: 1px solid white;
+    border-radius: 25px;
+    color:rgb(167, 167, 7);
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 3px 8px gray;
+    margin-left: 2%;
+    margin-top: 1%;
+}
